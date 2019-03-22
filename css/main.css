@@ -1,5 +1,5 @@
 html {
-  font-family: "Merriweather", serif;
+  font-family: Merriweather, serif;
 }
 
 main {
@@ -7,7 +7,6 @@ main {
 }
 
 table {
-  min-width: 50em;
   border: 1px solid #ccc;
 }
 
@@ -18,10 +17,6 @@ th, td {
 
 td {
   text-align: right;
-}
-
-caption {
-  text-align: center;
 }
 
 @media only screen and (min-width: 60em) {
