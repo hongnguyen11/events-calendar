@@ -1,0 +1,33 @@
+html {
+  font-family: "Merriweather", serif;
+}
+
+main {
+  background-color: #fff;
+}
+
+table {
+  min-width: 50em;
+  border: 1px solid #ccc;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 3em;
+}
+
+td {
+  text-align: right;
+}
+
+caption {
+  text-align: center;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .table-wrapper {
+    overflow: visible;
+  }
+
+}
